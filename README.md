@@ -1,15 +1,15 @@
 # TeleShadow3
 Teleshadow3- Advanced Telegram Desktop Session Hijacker!
 
-#step x1 start Proxy.exe
+step x1 start Proxy.exe
 
 step x2 start Teleshadow 3.exe
 
-#step x2 create botfather token and paste to Teleshadow
+step x2 create botfather token and paste to Teleshadow
 
 step x4 find your chat id and paste to Teleshadow : @my_id_bot
 
-#step x5 click Build button !
+step x5 click Build button !
 
 step x6 Share your stub file !
 
