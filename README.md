@@ -1,5 +1,5 @@
 # TeleShadow3
-Teleshadow3- Advanced Telegram Desktop Session Hijacker!
+Teleshadow3- Advanced Telegram Desktop Session Hijacker! (Turn off your AV)
 
 step x1 start Proxy.exe
 
